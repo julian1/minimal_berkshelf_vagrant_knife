@@ -1,0 +1,9 @@
+{
+    "hostname": "julian1.org",
+    "run_list": [
+        "recipe[users::sysadmins]"
+    ],
+
+	"default": [
+	]
+}

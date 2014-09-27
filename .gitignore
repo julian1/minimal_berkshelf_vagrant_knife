@@ -1,0 +1,8 @@
+*.o
+*.exe
+*.swp
+*.swo
+*.a
+*.iml
+cookbooks/*
+mybundle
